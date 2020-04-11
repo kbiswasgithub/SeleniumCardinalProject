@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110279" started-at="2017-06-08T11:35:51Z" finished-at="2017-06-08T11:37:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110279" started-at="2017-06-08T11:35:51Z" finished-at="2017-06-08T11:37:41Z">
+      <class name="Application_Specific_Library.TestNgTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Application_Specific_Library.TestNgTest@19963d8]" name="beforeTest" is-config="true" duration-ms="219" started-at="2017-06-08T17:05:51Z" finished-at="2017-06-08T17:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Application_Specific_Library.TestNgTest@19963d8]" name="test" duration-ms="55207" started-at="2017-06-08T17:05:51Z" finished-at="2017-06-08T17:06:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterScenario()[pri:0, instance:Application_Specific_Library.TestNgTest@19963d8]" name="afterScenario" is-config="true" duration-ms="1226" started-at="2017-06-08T17:06:46Z" finished-at="2017-06-08T17:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterScenario -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Application_Specific_Library.TestNgTest@19963d8]" name="beforeTest" is-config="true" duration-ms="111" started-at="2017-06-08T17:06:48Z" finished-at="2017-06-08T17:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Application_Specific_Library.TestNgTest@19963d8]" name="test1" duration-ms="52313" started-at="2017-06-08T17:06:48Z" finished-at="2017-06-08T17:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterScenario()[pri:0, instance:Application_Specific_Library.TestNgTest@19963d8]" name="afterScenario" is-config="true" duration-ms="1171" started-at="2017-06-08T17:07:40Z" finished-at="2017-06-08T17:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterScenario -->
+      </class> <!-- Application_Specific_Library.TestNgTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
